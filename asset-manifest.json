@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/clinics-dashboard/static/css/main.53408851.chunk.css",
+    "main.js": "/clinics-dashboard/static/js/main.e17a7451.chunk.js",
+    "main.js.map": "/clinics-dashboard/static/js/main.e17a7451.chunk.js.map",
+    "runtime-main.js": "/clinics-dashboard/static/js/runtime-main.0c4314cf.js",
+    "runtime-main.js.map": "/clinics-dashboard/static/js/runtime-main.0c4314cf.js.map",
+    "static/js/2.6a354292.chunk.js": "/clinics-dashboard/static/js/2.6a354292.chunk.js",
+    "static/js/2.6a354292.chunk.js.map": "/clinics-dashboard/static/js/2.6a354292.chunk.js.map",
+    "index.html": "/clinics-dashboard/index.html",
+    "static/css/main.53408851.chunk.css.map": "/clinics-dashboard/static/css/main.53408851.chunk.css.map",
+    "static/js/2.6a354292.chunk.js.LICENSE.txt": "/clinics-dashboard/static/js/2.6a354292.chunk.js.LICENSE.txt",
+    "static/media/doctor-img2.01516e30.png": "/clinics-dashboard/static/media/doctor-img2.01516e30.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c4314cf.js",
+    "static/js/2.6a354292.chunk.js",
+    "static/css/main.53408851.chunk.css",
+    "static/js/main.e17a7451.chunk.js"
+  ]
+}
